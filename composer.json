@@ -1,0 +1,13 @@
+{
+    "name": "leo/aaa",
+    "description": "just testing",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+		"authors": [
+				{
+					"name": "Leonard",
+					"email": "leonard@airpaz.com"
+				}
+		]  
+}
